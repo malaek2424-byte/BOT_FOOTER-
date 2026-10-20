@@ -1,0 +1,14 @@
+
+{
+  "name": "qus​​ay-md-bot",
+  "version": "1.0.0",
+  "description": "MR. QUSAY WhatsApp Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "dotenv": "latest"
+  }
+}
